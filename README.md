@@ -1,8 +1,3 @@
-Sure! Here's your full `README.md` content in one complete file — ready to copy-paste:
-
----
-
-```markdown
 # 🖼️ Image to PDF Generator
 
 Convert a folder of scanned `.png` images into a **single, high-quality PDF** formatted to A4 pages.
@@ -23,14 +18,12 @@ Convert a folder of scanned `.png` images into a **single, high-quality PDF** fo
 ## 📁 Folder Structure
 
 ```
-
 Image-PDF-Generator/
 │
 ├── images/             # Place all your .png images here
 ├── generated/          # Output PDF will be saved here
 ├── main.py             # Main script
 └── README.md           # Project readme
-
 ````
 
 ---
@@ -120,7 +113,7 @@ gswin64c -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 `
 ## ✍️ Author
 
 **Mahamudul Hasan**
-🌐 [Portfolio](#)   ·   💼 [LinkedIn](#)   ·   💻 [GitHub](#)
+🌐 [Portfolio](https://mahamudul.codejet.dev)   ·   💼 [LinkedIn](https://www.linkedin.com/in/mahamudul-hasan-developer/)   ·   💻 [GitHub](https://github.com/Mahamudul-Dev)
 
 ---
 
@@ -128,12 +121,3 @@ gswin64c -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 `
 
 MIT License – free for personal and commercial use.
 
-```
-
----
-
-Let me know if you'd like:
-- A `requirements.txt`
-- A `main.py` template to match this
-- Deployment guide for platforms like Replit or Streamlit
-```
